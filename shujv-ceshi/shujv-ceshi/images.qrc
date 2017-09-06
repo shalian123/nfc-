@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/UI1.png</file>
+        <file>images/icon.ico</file>
+        <file>images/UI2.png</file>
+        <file>images/UI3.png</file>
+        <file>images/UI0.png</file>
+        <file>images/update.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>test.txt</file>
+    </qresource>
+</RCC>
