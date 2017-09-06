@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>images/icn_mesure_pre.png</file>
+        <file>images/menu_icn_set_pre.png</file>
+        <file>images/icn_check_pre.png</file>
+        <file>images/icn_mng_pre.png</file>
+        <file>images/icn_syn_pre.png</file>
+        <file>images/icn_help_pre.png</file>
+        <file>images/icn_check.png</file>
+        <file>images/syn_icn_desc.png</file>
+        <file>images/syn_icn_device.png</file>
+        <file>images/syn_icn_pc.png</file>
+        <file>images/set_icn_desc_pre.png</file>
+        <file>images/set_icn_desc.png</file>
+        <file>images/close.png</file>
+        <file>images/mes_icn_figchange2.png</file>
+        <file>images/measure.png</file>
+    </qresource>
+</RCC>
